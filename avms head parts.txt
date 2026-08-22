@@ -1,0 +1,174 @@
+Eye Right
+- Human_Female_RightEye
+- Human_Female_RightEye_Bloodshot
+- Human_Female_RightEye_Jaundice
+- Human_Male_RightEye
+- Human_Male_RightEye_Bloodshot
+- Human_Male_RightEye_Jaundice
+
+Eye Left
+- Human_Female_LeftEye
+- Human_Female_LeftEye_Bloodshot
+- Human_Female_LeftEye_Jaundice
+- Human_Male_LeftEye
+- Human_Male_LeftEye_Bloodshot
+- Human_Male_LeftEye_Jaundice
+
+Eyelashes
+- Human_Female_Eyelashes_01_Top
+- Human_Female_Eyelashes_02_Top
+- Human_Male_Eyelashes_01_Top
+- Human_Male_Eyelashes_02_Top
+
+Teeth
+- Human_Female_Teeth
+- Human_Male_Teeth
+
+Eyebrows
+"Eyebrow_Sparse","Eyebrow_Standard","Eyebrow_Fluffy","Eyebrow_Apart","Eyebrow_Stern","Eyebrow_ThinArched","Eyebrow_ThickArched","Eyebrow_ThinFlat","Eyebrow_Sliced","Eyebrow_Simple","Eyebrow_Connected"
+
+Facial Hair
+"none",
+"Wildman",
+"ChinCurtain",
+"PirateThin",
+"ClassicBeard",
+"CleanThin",
+"PatchStache",
+"PirateThick",
+"PaintersMoustache",
+"BeardStache",
+"ChinFade",
+"HeavyStubble",
+"Goatee",
+"PencilMoustache",
+"Wolfchops",
+"Stubble_Light",
+"Stubble_Heavy",
+"Stubble_Patchy",
+"Patchy",
+"Full_rugged"
+
+Hair
+- Human_Female_Hair_Faded_Afro
+- Human_Female_Hair_Messy_Updo
+- Human_Female_Hair_Receding_Wizard
+- Human_Female_Hair_Mullet
+- Human_Female_Hair_Short_Ponytail_HairMesh
+- Human_Female_Hair_Finger_Waves
+- Human_Female_Hair_Cornrows_HairMesh
+- Human_Female_Hair_Straight_Bob
+- Human_Female_Hair_Whitney_Curls
+- Human_Female_Hair_Cropped_Bang
+- Human_Female_Hair_Bob
+- Human_Female_Hair_Hairspray_Bob
+- Human_Female_Hair_OldGuy_Business
+- Human_Female_Hair_Viking_Braids
+- Human_Female_Hair_Dreadlocks_HairMesh
+- Human_Female_Hair_Even_Buzz_Back
+- Human_Female_Hair_Ponytail_HairMesh
+- Human_Female_Hair_Hollywood_curls
+- Human_Female_Hair_Messy_Business
+- Human_Female_Hair_Unkempt
+- Human_Female_Hair_Top_Bun
+- Human_Female_Hair_Cropped
+- Human_Female_Hair_Coily_Mohawk
+- Human_Female_Hair_Natural_Fade
+- Human_Female_Hair_Short_Afro
+- Human_Female_Hair_Shaggy
+- Human_Female_Hair_Flat_Top
+- Human_Female_Hair_Messy_Bob
+- Human_Female_Hair_Spiked
+- Human_Female_Hair_Business
+- Human_Female_Hair_Undercut
+- Human_Female_Hair_Mullet_Mohawk
+- Human_Female_Hair_Buzz_Mohawk
+- Human_Female_Hair_None
+- Human_Female_Hair_High_and_Tight
+- Human_Female_Hair_Wavy_Business
+- Human_Female_Hair_CyberFade
+- Human_Female_Hair_Tousled_Bob
+- Human_Female_Hair_Choppy_Bob
+- Human_Female_Hair_Short_Loc
+"Faded_Afro"
+"Mullet"
+"Short_Ponytail_HairMesh"
+"Cropped_Receding"
+"Cropped_Receded"
+"Even_Buzz_Receded"
+"Even_Buzz_Receding"
+"Finger_Waves"
+"Cornrows_HairMesh"
+"Straight_Bob"
+"Whitney_Curls"
+"Cropped_Bang"
+"Bob"
+"Hairspray_Bob"
+"OldGuy_Business_Receded"
+"OldGuy_Business"
+"Viking_Braids"
+"Dreadlocks_HairMesh"
+"Even_Buzz_Back"
+"Ponytail_HairMesh"
+"Hollywood_curls"
+"Messy_Business"
+"Unkempt"
+"Top_Bun"
+"Cropped"
+"Coily_Mohawk"
+"Natural_Fade"
+"Short_Afro"
+"Shaggy"
+"Flat_Top"
+"Messy_Bob"
+"Spiked"
+"Business"
+"Buzz_Mohawk"
+"High_and_Tight"
+"Wavy_Business"
+"CyberFade"
+"Tousled_Bob"
+"Mullet_Mohawk"
+"Undercut"
+"None"
+"Choppy_Bob"
+"Receding_Wizard"
+"Short_Loc"
+"Messy_Updo"
+
+Jewelry
+- none
+- Human_Male_Jewelry_Hoops
+- Human_Male_Jewelry_Lobe_Diamond
+- Human_Male_Jewelry_Bridge_01
+- Human_Male_Jewelry_Bridge_02
+- Human_Male_Jewelry_Double_Earrings
+- Human_Male_Jewelry_Double_Earrings_Left
+- Human_Male_Jewelry_Double_Earrings_Right
+- Human_Male_Jewelry_Lobe_Gauge
+- Human_Male_Jewelry_Nostril_Ball
+- Human_Male_Jewelry_Nostril_Ball_Right
+- Human_Male_Jewelry_Nostril_Ball_Left
+- Human_Male_Jewelry_Rings_Assorted
+- Human_Male_Jewelry_Rings_Assorted_Left
+- Human_Male_Jewelry_Rings_Assorted_Right
+- Human_Male_Jewelry_Septum_01
+- Human_Male_Jewelry_Septum_02
+- Human_Male_Jewelry_Septum_03
+"Hoops",
+"Lobe_Diamond",
+"Double_Earrings_Left",
+"Bridge_01",
+"Bridge_02",
+"Double_Earrings",
+"Double_Earrings_Right",
+"Lobe_Gauge",
+"Nostril_Ball",
+"Nostril_Ball_Left",
+"Nostril_Ball_Right",
+"Rings_Assorted",
+"Rings_Assorted_Left",
+"Rings_Assorted_Right",
+"Septum_01",
+"Septum_02",
+"Septum_03"

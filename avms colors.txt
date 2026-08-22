@@ -1,0 +1,146 @@
+Skin Tone Index
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+
+Teeth
+- Teeth_Clean
+- Teeth_Dirty
+- Teeth_Dead
+- Teeth_Blackened
+
+EyeColor
+- Dead
+- Grey
+- Sulfur
+- Green
+- Copper
+- Hazel
+- Blue
+- RedDevil
+- Red
+- Iron
+- Brown
+- BrownDark
+
+Hair, Brow, and Facial Hair
+- White
+- Platinum
+- Grey
+- Blonde
+- DirtyBlonde
+- Amber
+- Copper
+- Ruby
+- SaltAndBrown
+- Brown
+- SaltAndPepper
+- BlackBrown
+- Auburn
+- Black
+- Jet
+- TealBlonde
+- Yellow
+- Violet
+- Flame
+- Blue
+- Fuchsia
+- AquaPurple
+- Teal
+
+Jewelry Color
+- No_Tint
+- Gold
+- Copper
+- Red
+- Green
+- Blue
+- Purple
+- Pink
+- Black
+
+Colors for (Cheeks1, Cheeks2, Lipstick1, Lipstick2, Eyeshadow1, Eyeshadow2, Eyeliner1, Eyeliner2)
+"NONE",
+"Red_True",
+"Red",
+"Red_2",
+"Red_Max",
+"Red_Pink",
+"Red_Dark",
+"Pink",
+"Pink_Subtle",
+"Orange",
+"Orange_Bright",
+"Orange_Petrov",
+"Orange_Petrov_2",
+"Clay",
+"Clay_Dark",
+"Grey_Light",
+"Grey_Dark",
+"Brown_3",
+"Berry",
+"Blue_mid",
+"Berry_Dark",
+"Purple",
+"Purple_Dark",
+"Purple_Light",
+"Blue",
+"Blue_2",
+"Blue_Dark",
+"Teal",
+"Teal_2",
+"Teal_Deep",
+"Green",
+"Green_2",
+"Green_3",
+"Green_Deep",
+"Yellow",
+"White",
+"Brown",
+"Brown_Light",
+"Brown_Mid",
+"Brown_Dark",
+"Black"
+
+Colors for (TattooMask)
+"NONE",
+"Black",
+"Brown",
+"Red",
+"Pink",
+"Blue",
+"Teal",
+"Green",
+"DarkBlue",
+"Henna",
+
+Colors for (MakeupFullPaintMask1, MakeupFullPaintMask2)
+"NONE",
+"Black",
+"White",
+"Red_Oily_Petrov",
+"Red_Nose_Petrov",
+"Black_Grease",
+"Red_Grease",
+"Orange_Grease",
+"Yellow_Grease",
+"Green_Grease",
+"Teal_Grease",
+"Blue_Grease",
+"Purple_Grease",
+"Magenta_Grease",
+"Pink_Grease",
+"Red_Grease_Dark",
+"Orange_Grease_Dark",
+"Green_Grease_Dark",
+"Teal_Grease_Dark",
+"Blue_Grease_Dark",
+"Purple_Grease_Dark",
+"Magenta_Grease_Dark",
+"Pink_Grease_Light",

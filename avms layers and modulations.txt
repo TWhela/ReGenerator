@@ -1,0 +1,429 @@
+All AVMS modulations have a blend intensity between float 0 and float 1. Only 1 modulation can be selected per category with its associated intensity. Some modulations have a colour from the lists specificed in the colors file.
+
+Cheeks1
+- NONE
+- Blush
+- Blush_Soft
+- Blush_Sides
+
+Cheeks2
+"NONE","Blush_Upper","Blush_Soft_Small","Blush_Inner_Contour","Blush_Upper_Small"
+
+Accents1
+"NONE",
+"Accents_UnderEyeBags",
+"Accents_SubtleEyeBags",
+"Accents_UnderEyeBags_Small",
+"Accents_UnderEyeCrease",
+"Accents_NasoLabialFolds",
+"Accents_ChinCleft",
+"Accents_CrowsFeet",
+"Accents_CrackedLips",
+"Accents_Lips",
+"Accents_RoughFace",
+"Accents_Moles_FaceNeck",
+"Accents_Moles_BaldHeadNeck",
+"Accents_Fullface_Wrinkles",
+"Accents_FullfaceMom_Wrinkles",
+"Blemish_VeinsMany"
+
+Accents2
+- NONE
+- Accents_UnderEyeBags
+- Accents_SubtleEyeBags
+- Accents_UnderEyeBags_Small
+- Accents_UnderEyeCrease
+- Accents_NasoLabialFolds
+- Accents_ChinCleft
+- Accents_CrowsFeet
+- Accents_CrackedLips
+- Accents_Lips
+- Accents_RoughFace
+- Accents_Moles_FaceNeck
+- Accents_Moles_BaldHeadNeck
+- Accents_Fullface_Wrinkles
+- Accents_FullfaceMom_Wrinkles
+- Blemish_VeinsMany
+
+ColorlessAccents1
+- NONE
+- Accents_UnderEyeBags
+- Accents_SubtleEyeBags
+- Accents_UnderEyeBags_Small
+- Accents_UnderEyeCrease
+- Accents_NasoLabialFolds
+- Accents_ChinCleft
+- Accents_CrowsFeet
+- Accents_CrackedLips
+- Accents_Lips
+- Accents_RoughFace
+- Accents_Moles_FaceNeck
+- Accents_Moles_BaldHeadNeck
+- Accents_Fullface_Wrinkles
+- Accents_FullfaceMom_Wrinkles
+- Blemish_VeinsMany
+
+ColorlessAccents2
+- NONE
+- Accents_UnderEyeBags
+- Accents_SubtleEyeBags
+- Accents_UnderEyeBags_Small
+- Accents_UnderEyeCrease
+- Accents_NasoLabialFolds
+- Accents_ChinCleft
+- Accents_CrowsFeet
+- Accents_CrackedLips
+- Accents_Lips
+- Accents_RoughFace
+- Accents_Moles_FaceNeck
+- Accents_Moles_BaldHeadNeck
+- Accents_Fullface_Wrinkles
+- Accents_FullfaceMom_Wrinkles
+- Blemish_VeinsMany
+
+Complexion1
+"NONE",
+"Color_Temperature_Purple",
+"Color_Temperature_Green",
+"Color_Temperature_Warm",
+"Color_Temperature_Yellow",
+"Color_Temperature_Cool",
+"Color_Temperature_Pink",
+"Crevice_Complexion_Warm",
+"Crevice_Complexion_Cool",
+"Crevice_Complexion_Jaundiced",
+"Vitiligo_1",
+"Vitiligo_2",
+"Vitiligo_3",
+"TriColor"
+
+Complexion2
+- NONE
+- Color_Temperature_Purple
+- Color_Temperature_Green
+- Color_Temperature_Warm
+- Color_Temperature_Yellow
+- Color_Temperature_Cool
+- Color_Temperature_Pink
+- Crevice_Complexion_Warm
+- Crevice_Complexion_Cool
+- Crevice_Complexion_Jaundiced
+- Vitiligo_1
+- Vitiligo_2
+- Vitiligo_3
+- TriColor
+
+ComplexionMask1
+"NONE",
+"Freckles_Nose",
+"Freckles_Forehead",
+"Freckles_Cheek",
+"Freckles_MidFace",
+"Freckles_Chin",
+"Freckles_Face",
+"Freckles_FullFace",
+"moles_Many_Small",
+"moles_Many_Small_02",
+"moles_Many_Small_03",
+"moles_Many_Small_04",
+"Moles_Bridge",
+"Moles_Cheek_L",
+"Moles_MidFace",
+"Moles_Cheek_R",
+"Moles_FaceSides",
+"Moles_Forehead",
+"Moles_Forehead_2",
+"Moles_Nose",
+"Moles_Chin",
+"Moles_UnderEye",
+"Liver_Spots",
+"Rosacea_Nose",
+"Rosacea_Cheeks",
+"Rosacea_FullFace",
+"Blemishes_Forehead",
+"Blemishes_MidFace",
+"Blemishes_LowerFace",
+"Blemishes_FullFace",
+"Blemishes_FullFace2",
+"Blemishes_FullFace3",
+"Veins",
+"Veins_2",
+"EyeSockets_Dark",
+"Complexion_Patchy",
+"Complexion_Patchy_2",
+"Complexion_WholeFace_Soft",
+"Complexion_WholeFace_Crevices_Soft",
+"Complexion_LowerFace_Crevices",
+"Complexion_Eye_Crevices",
+"Complexion_Crevices",
+"UnderEyeBags",
+"Cheeks_Sallow",
+"Stubble_Light",
+"Stubble_Heavy",
+"Stubble_Patchy"
+
+ComplexionMask2
+- NONE
+- Freckles_Nose
+- Freckles_Forehead
+- Freckles_Cheek
+- Freckles_MidFace
+- Freckles_Chin
+- Freckles_Face
+- Freckles_FullFace
+- moles_Many_Small
+- moles_Many_Small_02
+- moles_Many_Small_03
+- moles_Many_Small_04
+- Moles_Bridge
+- Moles_Cheek_L
+- Moles_MidFace
+- Moles_Cheek_R
+- Moles_FaceSides
+- Moles_Forehead
+- Moles_Forehead_2
+- Moles_Nose
+- Moles_Chin
+- Moles_UnderEye
+- Liver_Spots
+- Rosacea_Nose
+- Rosacea_Cheeks
+- Rosacea_FullFace
+- Blemishes_Forehead
+- Blemishes_MidFace
+- Blemishes_LowerFace
+- Blemishes_FullFace
+- Blemishes_FullFace2
+- Blemishes_FullFace3
+- Veins
+- Veins_2
+- EyeSockets_Dark
+- Complexion_Patchy
+- Complexion_Patchy_2
+- Complexion_WholeFace_Soft
+- Complexion_WholeFace_Crevices_Soft
+- Complexion_LowerFace_Crevices
+- Complexion_Eye_Crevices
+- Complexion_Crevices
+- UnderEyeBags
+- Cheeks_Sallow
+- Stubble_Light
+- Stubble_Heavy
+- Stubble_Patchy
+
+Scars
+"NONE",
+"Scar_01",
+"Scar_AcrossNose",
+"Scar_EyeLeftHeavy",
+"Scar_EyeLeftLong",
+"Scar_EyeRightRagged",
+"Scar_ForeheadClaw",
+"Scar_LeftBrowSmall",
+"Scar_LipLeftHeavy",
+"Scar_Mouth_Scarification",
+"Scar_MouthSlit",
+"Scar_NoseGouges",
+"Scar_RaggedY",
+"Scar_RightBrowGouge",
+"Scar_RightBrowSmall",
+"Burn_LeftCheekManySmall",
+"Burn_RightCheekLarge",
+"Burn_ForeheadLeftEye",
+"Burn_Mouth",
+"Burn_RightFace",
+"Burn_FaceCenter",
+"Burn_AlloverLight",
+"Burn_EyeLeft",
+"Blemish_VeinsMany",
+"Burn_EzekielRightCheek"
+
+Dermaesthetic
+"NONE",
+"Asian_Male_Ol1_Sk1",
+"Asian_Male_Ol1_Sk3",
+"Asian_Male_Ol1_Sk6",
+"Asian_Male_Ol1_Sk8",
+"Asian_Male_yo1_Sk1",
+"Asian_Male_yo1_Sk3",
+"Asian_Male_yo1_Sk6",
+"Asian_Male_yo1_Sk8",
+"European_Male_Md1_Sk1",
+"European_Male_md1_sk3",
+"European_Male_Md1_Sk6",
+"European_Male_Md1_Sk8",
+"European_Male_Md2_Sk1",
+"European_Male_Md2_Sk3",
+"European_Male_Md2_Sk6",
+"European_Male_Md2_Sk8",
+"European_Male_Ol1_Sk1",
+"European_Male_Ol1_Sk3",
+"European_Male_Ol1_Sk6",
+"European_Male_Ol1_Sk8",
+"European_Male_yo1_Sk1",
+"European_Male_yo1_Sk3",
+"European_Male_yo1_Sk6",
+"European_Male_yo1_Sk8",
+"African_Female_md1_Sk1",
+"African_Female_md1_Sk3",
+"African_Female_md1_Sk6",
+"African_Female_md1_sk8",
+"African_Female_ol1_Sk1",
+"African_Female_ol1_Sk3",
+"African_Female_ol1_Sk6",
+"African_Female_ol1_sk8",
+"African_Female_yo1_Sk1",
+"African_Female_yo1_Sk3",
+"African_Female_yo1_Sk6",
+"African_Female_yo1_sk8",
+"Asian_Female_md1_Sk1",
+"Asian_Female_md1_Sk3",
+"Asian_Female_MD1_SK6",
+"Asian_Female_md1_Sk8",
+"Asian_Female_ol1_Sk1",
+"Asian_Female_ol1_Sk3",
+"Asian_Female_ol1_Sk6",
+"Asian_Female_ol1_Sk8",
+"Asian_Female_yo1_Sk1",
+"Asian_Female_yo1_Sk3",
+"Asian_Female_yo1_Sk6",
+"Asian_Female_Yo1_Sk8",
+"European_Female_md1_Sk1",
+"European_Female_Md1_Sk3",
+"European_Female_md1_Sk6",
+"European_Female_md1_Sk8",
+"European_Female_md2_Sk1",
+"European_Female_md2_Sk3",
+"European_Female_md2_Sk6",
+"European_Female_md2_Sk8",
+"European_Female_ol1_Sk1",
+"European_Female_Ol1_Sk3",
+"European_Female_ol1_Sk6",
+"European_Female_ol1_Sk6",
+"European_Female_ol1_Sk8",
+"European_Female_yo1_Sk1",
+"European_Female_Yo1_Sk3",
+"European_Female_yo1_Sk6",
+"European_Female_yo1_Sk8",
+"African_Male_md1_Sk1",
+"African_Male_md1_Sk3",
+"African_Male_md1_Sk6",
+"African_Male_Md1_Sk8",
+"African_Male_ol1_Sk1",
+"African_Male_ol1_Sk3",
+"African_Male_ol1_Sk6",
+"African_Male_Ol1_Sk8",
+"African_Male_yo1_Sk1",
+"African_Male_yo1_Sk3",
+"African_Male_yo1_Sk6",
+"African_Male_Yo1_Sk8",
+"Asian_Male_md1_Sk1",
+"Asian_Male_md1_Sk3",
+"Asian_Male_md1_Sk6",
+"Asian_Male_md1_Sk8",
+"male_as_md2_sk1_Derm_color",
+"male_as_md2_sk3_Derm_color",
+"male_as_md2_sk6_Derm_color",
+"male_as_md2_sk8_Derm_color"
+
+TattooMask
+"NONE",
+"Dagger",
+"Leaf",
+"Cat",
+"Circuits01",
+"Circuits02",
+"Dragon",
+"Eagle",
+"Geoflower01",
+"Geoflower02",
+"Geometric",
+"MummersMask",
+"skull",
+"Spacecat"
+
+MakeupFullPaintMask1
+"NONE",
+"X_Eyes",
+"Mask_Antlered",
+"ChinLine",
+"CyberLines",
+"DarkTears",
+"Eyelines",
+"Masked",
+"Masked_2",
+"Moustache",
+"EyeBlack",
+"Eyesocket",
+"FullSkull",
+"WideTeeth",
+"Nose",
+"Maske_Airbrushed",
+"SpraySmile",
+"SkullEyes",
+"right_spray",
+"Left_Spray",
+"LowerFaceSpray",
+"Teeth"
+
+MakeupFullPaintMask2
+
+
+Lipstick1
+"NONE",
+"Lipstick_Standard",
+"Lipstick_Soft",
+"LipStain_Bottom",
+"LipStain_Top",
+"LipLiner_Thick",
+
+Lipstick2
+"NONE",
+"Lip_Liner",
+"Lip_Stain_Corners",
+"Lip_Stain_Center",
+"LipStain_Top",
+"LipStain_Bottom",
+"LipLiner_Thick",
+
+Eyeshadow1
+"NONE",
+"EyeShadow_Upper_01",
+"EyeShadow_Upper_02",
+"EyeShadow_Upper_03",
+"StrongEyeshadow_Upper",
+"TwotoneUpper_Inner",
+"Conservative_Eyeshadow_Upper_mask",
+
+Eyeshadow2
+"NONE",
+"EyeShadow_Lower_01",
+"EyeShadow_Lower_02",
+"EyeShadow_Lower_03",
+"StrongEyeshadow_Lower",
+"TwoToneUpper_Outer",
+"ConservativeEyeShadow_Lower_mask",
+
+Eyeliner1
+"NONE",
+"Eyeliner_Upper_01",
+"Eyeliner_Upper_02",
+"Eyeliner_Upper03",
+"Eyeliner_Lower_01",
+"Eyeliner_Lower_02",
+"Eyeliner_Lower_03",
+"EyeLinerNeon_Upper",
+"EyeLinerConservative_Upper",
+"EyeLinerLightning_Upper",
+
+Eyeliner2
+"NONE",
+"Eyeliner_Lower_01",
+"Eyeliner_Lower_02",
+"Eyeliner_Lower_03",
+"Eyeliner_Upper_01",
+"Eyeliner_Upper_02",
+"Eyeliner_Upper03",
+"EyeLinerConservative_Lower",
+"EyeLinerLightning_Lower",
+"EyeLinerNeon_Lower",

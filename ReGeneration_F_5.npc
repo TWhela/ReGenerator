@@ -1,0 +1,538 @@
+{
+   "RaceFormID": "HumanRace",
+   "SkinTone": 1,
+   "Sex": "Female",
+   "HairColor": "Auburn",
+   "EyeColor": "RedDevil",
+   "BrowHairColor": "Auburn",
+   "FacialHairColor": "",
+   "JewelryColor": "Black",
+   "TeethCustomization": "Teeth_Clean",
+   "FacialBoneRegionDataA": [
+      {
+         "RegionID": 17,
+         "SlidersA": [
+            {
+               "GroupName": "Cheeks",
+               "ID": 0,
+               "Value": 0.6831336941234467
+            },
+            {
+               "GroupName": "Chin",
+               "ID": 0,
+               "Value": 0.4701714393946544
+            },
+            {
+               "GroupName": "Ears",
+               "ID": 0,
+               "Value": 0.769575078137661
+            },
+            {
+               "GroupName": "Eyes",
+               "ID": 0,
+               "Value": 1.0
+            },
+            {
+               "GroupName": "Forehead",
+               "ID": 0,
+               "Value": 0.7707104057904466
+            },
+            {
+               "GroupName": "Jaw",
+               "ID": 0,
+               "Value": 1.0
+            },
+            {
+               "GroupName": "Mouth",
+               "ID": 0,
+               "Value": 0.6694980505798331
+            },
+            {
+               "GroupName": "Neck",
+               "ID": 0,
+               "Value": 0.5184424923431739
+            },
+            {
+               "GroupName": "Nose",
+               "ID": 0,
+               "Value": 0.7893873144950107
+            }
+         ]
+      },
+      {
+         "RegionID": 19,
+         "SlidersA": [
+            {
+               "GroupName": "Cheeks",
+               "ID": 0,
+               "Value": 0.3168663058765533
+            },
+            {
+               "GroupName": "Chin",
+               "ID": 0,
+               "Value": 0.5298285606053457
+            },
+            {
+               "GroupName": "Ears",
+               "ID": 0,
+               "Value": 0.23042492186233898
+            },
+            {
+               "GroupName": "Eyes",
+               "ID": 0,
+               "Value": 0.0
+            },
+            {
+               "GroupName": "Forehead",
+               "ID": 0,
+               "Value": 0.22928959420955342
+            },
+            {
+               "GroupName": "Jaw",
+               "ID": 0,
+               "Value": 0.0
+            },
+            {
+               "GroupName": "Mouth",
+               "ID": 0,
+               "Value": 0.33050194942016686
+            },
+            {
+               "GroupName": "Neck",
+               "ID": 0,
+               "Value": 0.48155750765682614
+            },
+            {
+               "GroupName": "Nose",
+               "ID": 0,
+               "Value": 0.21061268550498935
+            }
+         ]
+      },
+      {
+         "RegionID": 46,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 47,
+               "Value": -0.1786126610747735
+            },
+            {
+               "GroupName": "",
+               "ID": 48,
+               "Value": 0.20858732156862603
+            },
+            {
+               "GroupName": "",
+               "ID": 49,
+               "Value": 0.36258504060409497
+            }
+         ]
+      },
+      {
+         "RegionID": 33,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 34,
+               "Value": -0.6828056957886504
+            },
+            {
+               "GroupName": "",
+               "ID": 35,
+               "Value": 0.044087038361055965
+            },
+            {
+               "GroupName": "",
+               "ID": 36,
+               "Value": 0.11741472673188307
+            }
+         ]
+      },
+      {
+         "RegionID": 56,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 57,
+               "Value": -0.1518433350332238
+            },
+            {
+               "GroupName": "",
+               "ID": 58,
+               "Value": 0.24966799222027375
+            },
+            {
+               "GroupName": "",
+               "ID": 59,
+               "Value": -0.17529990442951038
+            }
+         ]
+      },
+      {
+         "RegionID": 60,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 61,
+               "Value": 0.5344827481157115
+            },
+            {
+               "GroupName": "",
+               "ID": 62,
+               "Value": -0.153074228617389
+            },
+            {
+               "GroupName": "",
+               "ID": 63,
+               "Value": -0.44383912516148655
+            }
+         ]
+      },
+      {
+         "RegionID": 64,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 65,
+               "Value": 0.21969993851031075
+            },
+            {
+               "GroupName": "",
+               "ID": 67,
+               "Value": -0.737360429718992
+            },
+            {
+               "GroupName": "",
+               "ID": 69,
+               "Value": -0.6947582870036111
+            },
+            {
+               "GroupName": "",
+               "ID": 70,
+               "Value": 0.5198366463936205
+            }
+         ]
+      },
+      {
+         "RegionID": 71,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 72,
+               "Value": -0.30601232344090085
+            },
+            {
+               "GroupName": "",
+               "ID": 73,
+               "Value": -0.1292037363098068
+            }
+         ]
+      },
+      {
+         "RegionID": 23,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 24,
+               "Value": 0.18977944672694724
+            },
+            {
+               "GroupName": "",
+               "ID": 25,
+               "Value": 0.22505855665200364
+            },
+            {
+               "GroupName": "",
+               "ID": 26,
+               "Value": 0.13968954610143847
+            },
+            {
+               "GroupName": "",
+               "ID": 27,
+               "Value": 0.0
+            }
+         ]
+      },
+      {
+         "RegionID": 37,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 38,
+               "Value": 0.48610391915392537
+            },
+            {
+               "GroupName": "",
+               "ID": 39,
+               "Value": -0.6242043927575873
+            },
+            {
+               "GroupName": "",
+               "ID": 40,
+               "Value": -0.22809183065474894
+            }
+         ]
+      },
+      {
+         "RegionID": 41,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 42,
+               "Value": 0.15655916908612827
+            },
+            {
+               "GroupName": "",
+               "ID": 43,
+               "Value": 0.11272205644700499
+            },
+            {
+               "GroupName": "",
+               "ID": 44,
+               "Value": 0.9399418605629569
+            },
+            {
+               "GroupName": "",
+               "ID": 45,
+               "Value": -0.19972845274103726
+            }
+         ]
+      },
+      {
+         "RegionID": 29,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 30,
+               "Value": 0.06941588382901619
+            },
+            {
+               "GroupName": "",
+               "ID": 31,
+               "Value": -0.25875046204555435
+            }
+         ]
+      },
+      {
+         "RegionID": 50,
+         "SlidersA": [
+            {
+               "GroupName": "",
+               "ID": 51,
+               "Value": -0.7086596990529147
+            },
+            {
+               "GroupName": "",
+               "ID": 52,
+               "Value": -0.07626026531022485
+            },
+            {
+               "GroupName": "",
+               "ID": 53,
+               "Value": -0.2506998321991105
+            },
+            {
+               "GroupName": "",
+               "ID": 54,
+               "Value": -1.0
+            },
+            {
+               "GroupName": "",
+               "ID": 55,
+               "Value": -0.10964645726615672
+            },
+            {
+               "GroupName": "",
+               "ID": 75,
+               "Value": 0.7752903159994753
+            },
+            {
+               "GroupName": "",
+               "ID": 77,
+               "Value": 0.1934986186733302
+            },
+            {
+               "GroupName": "",
+               "ID": 78,
+               "Value": -0.10354067754989432
+            },
+            {
+               "GroupName": "",
+               "ID": 79,
+               "Value": -0.3704977838124386
+            }
+         ]
+      }
+   ],
+   "FacialMorphSliderDataA": [
+      {
+         "Name": "female_as_yo1_Cheeks",
+         "Value": 1.0
+      },
+      {
+         "Name": "female_eu_yo1_Cheeks",
+         "Value": 0.0
+      },
+      {
+         "Name": "female_eu_yo1_Chin",
+         "Value": 0.9227550941841234
+      },
+      {
+         "Name": "female_as_yo1_Chin",
+         "Value": 0.07724490581587662
+      },
+      {
+         "Name": "female_eu_yo1_Ears",
+         "Value": 0.7172680357325508
+      },
+      {
+         "Name": "female_as_yo1_Ears",
+         "Value": 0.2827319642674492
+      },
+      {
+         "Name": "female_as_yo1_Eyes",
+         "Value": 0.7999795790409809
+      },
+      {
+         "Name": "female_eu_yo1_Eyes",
+         "Value": 0.20002042095901906
+      },
+      {
+         "Name": "female_eu_yo1_Forehead",
+         "Value": 1.0
+      },
+      {
+         "Name": "female_as_yo1_Forehead",
+         "Value": 0.0
+      },
+      {
+         "Name": "female_eu_yo1_Jaw",
+         "Value": 1.0
+      },
+      {
+         "Name": "female_as_yo1_Jaw",
+         "Value": 0.0
+      },
+      {
+         "Name": "female_as_yo1_Mouth",
+         "Value": 0.6484035956656338
+      },
+      {
+         "Name": "female_eu_yo1_Mouth",
+         "Value": 0.35159640433436623
+      },
+      {
+         "Name": "female_as_yo1_Neck",
+         "Value": 0.7591218283470691
+      },
+      {
+         "Name": "female_eu_yo1_Neck",
+         "Value": 0.2408781716529309
+      },
+      {
+         "Name": "female_as_yo1_Nose",
+         "Value": 0.9286179143211377
+      },
+      {
+         "Name": "female_eu_yo1_Nose",
+         "Value": 0.07138208567886228
+      }
+   ],
+   "MorphWeights": {
+      "x": 0.5073107567030257,
+      "y": 0.6468324743788796,
+      "z": 0.7148721448765866
+   },
+   "PostBlendFaceCustomization": {
+      "LayersA": [
+         {
+            "Intensity": 0.2714522003116904,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "ComplexionMask2",
+            "Value": {
+               "Value": "Blemishes_FullFace3"
+            }
+         },
+         {
+            "Intensity": 0.0,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "Complexion2",
+            "Value": {
+               "Value": "Vitiligo_3"
+            }
+         },
+         {
+            "Intensity": 0.0,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "Scars",
+            "Value": {
+               "Value": "Scar_RightBrowGouge"
+            }
+         },
+         {
+            "Intensity": 0.0,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "ColorlessAccents1",
+            "Value": {
+               "Value": "Accents_NasoLabialFolds"
+            }
+         },
+         {
+            "Intensity": 0.277954020637408,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "Accents2",
+            "Value": {
+               "Value": "Accents_CrowsFeet"
+            }
+         },
+         {
+            "Intensity": 0.766338871700414,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "ComplexionMask1",
+            "Value": {
+               "Value": "moles_Many_Small_03"
+            }
+         },
+         {
+            "Intensity": 0.34836158982628135,
+            "ModulationValue": {
+               "Value": ""
+            },
+            "Name": "Complexion1",
+            "Value": {
+               "Value": "Vitiligo_1"
+            }
+         }
+      ]
+   },
+   "UniqueHeadPartsA": [
+      "",
+      "Human_Female_Head",
+      "Human_Female_RightEye",
+      "Human_Female_Hair_Short_Loc",
+      "none",
+      "",
+      "Human_Female_Eyebrow_ThinArched",
+      "none",
+      "",
+      "Human_Female_Teeth",
+      "",
+      "",
+      "Human_Female_LeftEye",
+      "Human_Female_Eyelashes_02_Top"
+   ],
+   "MiscHeadPartsA": []
+}
