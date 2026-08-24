@@ -1,8 +1,16 @@
 # ReGenerator
 
-Generates Starfield character presets (`.npc`) for the Whofield Doctor Who mod, so the player character can regenerate into a new face.
+Generates Starfield character presets (`.npc`) Whofield.
 
-## Running it
+## The window
+
+```
+python app.py                 # or: python -m regenerator.ui
+```
+
+Pick a race, a sex, an age and how many, then press Generate. Presets are written into the chosen folder without overwriting anything already there. Gives a tally of what presets are in the chosen folder.
+
+## Running it from the command line
 
 ```
 python -m regenerator                     # 5 male and 5 female presets into output/

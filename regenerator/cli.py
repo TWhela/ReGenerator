@@ -10,7 +10,7 @@ from .generator import (SEXES, NpcRequest, generate_npc, next_preset_index,
 DEFAULT_OUTPUT_DIR = "output"
 
 
-def parse_args(argv=None):
+def _build_parser():
     parser = argparse.ArgumentParser(
         prog="regenerator",
         description="Generate Starfield character presets for the Whofield regeneration mod.",
@@ -33,11 +33,12 @@ def parse_args(argv=None):
                         help=f"where to write the .npc files (default: {DEFAULT_OUTPUT_DIR}/)")
     parser.add_argument("--overwrite", action="store_true",
                         help="restart numbering at 1, replacing any presets already there")
-    return parser.parse_args(argv)
+    return parser
 
 
 def main(argv=None):
-    args = parse_args(argv)
+    parser = _build_parser()
+    args = parser.parse_args(argv)
 
     if args.seed is not None:
         random.seed(args.seed)
@@ -55,8 +56,13 @@ def main(argv=None):
                 age=args.age,
                 androgynous=args.androgynous,
             )
+            try:
+                npc = generate_npc(request)
+            except ValueError as error:
+                parser.error(str(error))
+
             filename = preset_filename(sex, index)
-            path = write_npc(generate_npc(request), f"{args.output_dir}/{filename}")
+            path = write_npc(npc, f"{args.output_dir}/{filename}")
             print(f"Created {path}")
 
     return 0
