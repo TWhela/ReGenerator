@@ -63,6 +63,11 @@ class NpcRequest:
                 )
         if self.age not in data.ages:
             raise ValueError(f"age must be one of {data.ages}, got {self.age!r}")
+        if self.primary_ethnicity == self.secondary_ethnicity:
+            raise ValueError(
+                "primary and secondary ethnicity must differ: blending an ethnicity with "
+                "itself emits a duplicate RegionID and paired morphs at 1.0 and 0.0"
+            )
 
 
 def generate_npc(request=None):
