@@ -1,36 +1,36 @@
 {
    "RaceFormID": "HumanRace",
-   "SkinTone": 7,
+   "SkinTone": 6,
    "Sex": "Male",
-   "HairColor": "SaltAndPepper",
-   "EyeColor": "Grey",
-   "BrowHairColor": "SaltAndPepper",
-   "FacialHairColor": "SaltAndPepper",
-   "JewelryColor": "Copper",
-   "TeethCustomization": "Teeth_Clean",
+   "HairColor": "BlackBrown",
+   "EyeColor": "Dead",
+   "BrowHairColor": "BlackBrown",
+   "FacialHairColor": "BlackBrown",
+   "JewelryColor": "Purple",
+   "TeethCustomization": "Teeth_Blackened",
    "FacialBoneRegionDataA": [
       {
-         "RegionID": 42,
+         "RegionID": 40,
          "SlidersA": [
             {
                "GroupName": "Cheeks",
                "ID": 0,
-               "Value": 0.37553197116974635
+               "Value": 0.850526021270632
             },
             {
                "GroupName": "Chin",
                "ID": 0,
-               "Value": 1.0
+               "Value": 0.5541977907571105
             },
             {
                "GroupName": "Ears",
                "ID": 0,
-               "Value": 0.5613104283056923
+               "Value": 0.6670108366501817
             },
             {
                "GroupName": "Eyes",
                "ID": 0,
-               "Value": 0.8031206387746298
+               "Value": 1.0
             },
             {
                "GroupName": "Forehead",
@@ -40,47 +40,47 @@
             {
                "GroupName": "Jaw",
                "ID": 0,
-               "Value": 0.7665330244639411
+               "Value": 0.7655287675188202
             },
             {
                "GroupName": "Mouth",
                "ID": 0,
-               "Value": 0.8654339387119065
+               "Value": 0.9425021496156158
             },
             {
                "GroupName": "Neck",
                "ID": 0,
-               "Value": 0.7825326101734429
+               "Value": 0.4135347791611899
             },
             {
                "GroupName": "Nose",
                "ID": 0,
-               "Value": 0.8862886201995754
+               "Value": 0.37961839932961666
             }
          ]
       },
       {
-         "RegionID": 46,
+         "RegionID": 14,
          "SlidersA": [
             {
                "GroupName": "Cheeks",
                "ID": 0,
-               "Value": 0.6244680288302537
+               "Value": 0.14947397872936796
             },
             {
                "GroupName": "Chin",
                "ID": 0,
-               "Value": 0.0
+               "Value": 0.4458022092428895
             },
             {
                "GroupName": "Ears",
                "ID": 0,
-               "Value": 0.43868957169430767
+               "Value": 0.3329891633498183
             },
             {
                "GroupName": "Eyes",
                "ID": 0,
-               "Value": 0.1968793612253702
+               "Value": 0.0
             },
             {
                "GroupName": "Forehead",
@@ -90,22 +90,22 @@
             {
                "GroupName": "Jaw",
                "ID": 0,
-               "Value": 0.23346697553605888
+               "Value": 0.23447123248117985
             },
             {
                "GroupName": "Mouth",
                "ID": 0,
-               "Value": 0.13456606128809345
+               "Value": 0.05749785038438415
             },
             {
                "GroupName": "Neck",
                "ID": 0,
-               "Value": 0.2174673898265571
+               "Value": 0.5864652208388101
             },
             {
                "GroupName": "Nose",
                "ID": 0,
-               "Value": 0.11371137980042456
+               "Value": 0.6203816006703833
             }
          ]
       },
@@ -115,17 +115,17 @@
             {
                "GroupName": "",
                "ID": 73,
-               "Value": 0.009481455777638028
+               "Value": 0.12173373856442322
             },
             {
                "GroupName": "",
                "ID": 74,
-               "Value": -0.1738165431175149
+               "Value": -0.7438511752553757
             },
             {
                "GroupName": "",
                "ID": 75,
-               "Value": 0.2198735361424618
+               "Value": 0.8972571095086996
             }
          ]
       },
@@ -135,17 +135,17 @@
             {
                "GroupName": "",
                "ID": 83,
-               "Value": 0.34510087139044227
+               "Value": 0.40483085175757155
             },
             {
                "GroupName": "",
                "ID": 84,
-               "Value": 0.2419042483924723
+               "Value": -0.7341974883647862
             },
             {
                "GroupName": "",
                "ID": 85,
-               "Value": -0.2951798507615457
+               "Value": -0.13200768914805133
             }
          ]
       },
@@ -155,17 +155,17 @@
             {
                "GroupName": "",
                "ID": 27,
-               "Value": -0.15826245118422402
+               "Value": 0.17870248358962926
             },
             {
                "GroupName": "",
                "ID": 28,
-               "Value": -0.40815112769486994
+               "Value": -0.5660897699736985
             },
             {
                "GroupName": "",
                "ID": 29,
-               "Value": 0.19777642828287703
+               "Value": -0.46674156515995063
             }
          ]
       },
@@ -175,17 +175,17 @@
             {
                "GroupName": "",
                "ID": 67,
-               "Value": 0.1714678637419751
+               "Value": 0.3359377835995046
             },
             {
                "GroupName": "",
                "ID": 68,
-               "Value": -0.5553911355283458
+               "Value": -0.5753982595783039
             },
             {
                "GroupName": "",
                "ID": 69,
-               "Value": -0.018593634804607125
+               "Value": -0.5216608042331107
             }
          ]
       },
@@ -195,22 +195,22 @@
             {
                "GroupName": "",
                "ID": 31,
-               "Value": 0.5856836360941229
+               "Value": -0.32705055117417586
             },
             {
                "GroupName": "",
                "ID": 32,
-               "Value": -0.8568428028413677
+               "Value": -0.31038999976785214
             },
             {
                "GroupName": "",
                "ID": 60,
-               "Value": 0.04487045033282653
+               "Value": -0.1353181097951503
             },
             {
                "GroupName": "",
                "ID": 65,
-               "Value": 0.40101845258950003
+               "Value": -0.6422146351412592
             }
          ]
       },
@@ -220,12 +220,12 @@
             {
                "GroupName": "",
                "ID": 63,
-               "Value": -0.3732545734699064
+               "Value": -0.3156688952881316
             },
             {
                "GroupName": "",
                "ID": 64,
-               "Value": -0.17748854362620733
+               "Value": 0.32137261865072053
             }
          ]
       },
@@ -235,22 +235,22 @@
             {
                "GroupName": "",
                "ID": 51,
-               "Value": 0.282685981290679
+               "Value": 0.34208812394453775
             },
             {
                "GroupName": "",
                "ID": 52,
-               "Value": 0.28120898729736715
+               "Value": 0.3331062382173928
             },
             {
                "GroupName": "",
                "ID": 53,
-               "Value": 0.29952270246147794
+               "Value": 0.19196093688592158
             },
             {
                "GroupName": "",
                "ID": 54,
-               "Value": 0.24184992381161619
+               "Value": 0.3395087358107882
             }
          ]
       },
@@ -260,17 +260,17 @@
             {
                "GroupName": "",
                "ID": 39,
-               "Value": 0.24108147114776746
+               "Value": 0.362896836535559
             },
             {
                "GroupName": "",
                "ID": 78,
-               "Value": -0.4948994704754539
+               "Value": -0.021557272218120135
             },
             {
                "GroupName": "",
                "ID": 79,
-               "Value": 0.6339694434799055
+               "Value": -0.7399895111268151
             }
          ]
       },
@@ -280,22 +280,22 @@
             {
                "GroupName": "",
                "ID": 24,
-               "Value": -0.0416018037337993
+               "Value": 0.09238065041066312
             },
             {
                "GroupName": "",
                "ID": 25,
-               "Value": -0.3033360062178859
+               "Value": 0.5959937014638103
             },
             {
                "GroupName": "",
                "ID": 76,
-               "Value": -0.3151587163287968
+               "Value": 0.45583338036229576
             },
             {
                "GroupName": "",
                "ID": 77,
-               "Value": 0.2509858676379845
+               "Value": 0.32045001977497956
             }
          ]
       },
@@ -305,12 +305,12 @@
             {
                "GroupName": "",
                "ID": 58,
-               "Value": -0.20163561364130533
+               "Value": -0.05705349480959962
             },
             {
                "GroupName": "",
                "ID": 80,
-               "Value": -0.3050560778143165
+               "Value": 0.5459869967463366
             }
          ]
       },
@@ -320,210 +320,150 @@
             {
                "GroupName": "",
                "ID": 35,
-               "Value": -0.8232107721139468
+               "Value": -0.031830428593901
             },
             {
                "GroupName": "",
                "ID": 36,
-               "Value": -0.8270043729987201
+               "Value": -0.028731603772517742
             },
             {
                "GroupName": "",
                "ID": 37,
-               "Value": 0.42232359316767415
+               "Value": 0.5269159004967644
             },
             {
                "GroupName": "",
                "ID": 70,
-               "Value": 0.1591421585467271
+               "Value": -0.48143994987397204
             },
             {
                "GroupName": "",
                "ID": 71,
-               "Value": -0.5638470974232069
+               "Value": -0.8910035951727673
             },
             {
                "GroupName": "",
                "ID": 86,
-               "Value": -0.4031044685220681
+               "Value": 0.08147240175265189
             },
             {
                "GroupName": "",
                "ID": 87,
-               "Value": -0.44573235496417535
+               "Value": 0.09446780023192777
             },
             {
                "GroupName": "",
                "ID": 88,
-               "Value": 0.25302536480718374
+               "Value": -0.7495461896781106
             },
             {
                "GroupName": "",
                "ID": 89,
-               "Value": 0.15228904457016304
+               "Value": -0.340666563057203
             }
          ]
       }
    ],
    "FacialMorphSliderDataA": [
       {
-         "Name": "male_af_yo1_Cheeks",
-         "Value": 0.45785579373150087
-      },
-      {
-         "Name": "male_as_yo1_Cheeks",
-         "Value": 0.5421442062684991
-      },
-      {
-         "Name": "male_af_yo1_Chin",
+         "Name": "male_eu_ol1_Cheeks",
          "Value": 1.0
       },
       {
-         "Name": "male_as_yo1_Chin",
+         "Name": "male_af_ol1_Cheeks",
          "Value": 0.0
       },
       {
-         "Name": "male_af_yo1_Ears",
+         "Name": "male_af_ol1_Chin",
+         "Value": 0.8620364242649948
+      },
+      {
+         "Name": "male_eu_ol1_Chin",
+         "Value": 0.13796357573500517
+      },
+      {
+         "Name": "male_af_ol1_Ears",
+         "Value": 0.9289663314327568
+      },
+      {
+         "Name": "male_eu_ol1_Ears",
+         "Value": 0.07103366856724325
+      },
+      {
+         "Name": "male_af_ol1_Eyes",
          "Value": 1.0
       },
       {
-         "Name": "male_as_yo1_Ears",
+         "Name": "male_eu_ol1_Eyes",
          "Value": 0.0
       },
       {
-         "Name": "male_af_yo1_Eyes",
-         "Value": 0.9812976017200162
+         "Name": "male_eu_ol1_Forehead",
+         "Value": 0.419469937563101
       },
       {
-         "Name": "male_as_yo1_Eyes",
-         "Value": 0.018702398279983767
+         "Name": "male_af_ol1_Forehead",
+         "Value": 0.580530062436899
       },
       {
-         "Name": "male_as_yo1_Forehead",
+         "Name": "male_af_ol1_Jaw",
+         "Value": 0.5770963411996979
+      },
+      {
+         "Name": "male_eu_ol1_Jaw",
+         "Value": 0.4229036588003021
+      },
+      {
+         "Name": "male_eu_ol1_Mouth",
          "Value": 1.0
       },
       {
-         "Name": "male_af_yo1_Forehead",
+         "Name": "male_af_ol1_Mouth",
          "Value": 0.0
       },
       {
-         "Name": "male_as_yo1_Jaw",
+         "Name": "male_eu_ol1_Neck",
          "Value": 1.0
       },
       {
-         "Name": "male_af_yo1_Jaw",
+         "Name": "male_af_ol1_Neck",
          "Value": 0.0
       },
       {
-         "Name": "male_af_yo1_Mouth",
-         "Value": 1.0
+         "Name": "male_eu_ol1_Nose",
+         "Value": 0.732978204860339
       },
       {
-         "Name": "male_as_yo1_Mouth",
-         "Value": 0.0
-      },
-      {
-         "Name": "male_as_yo1_Neck",
-         "Value": 1.0
-      },
-      {
-         "Name": "male_af_yo1_Neck",
-         "Value": 0.0
-      },
-      {
-         "Name": "male_as_yo1_Nose",
-         "Value": 0.40412651909869923
-      },
-      {
-         "Name": "male_af_yo1_Nose",
-         "Value": 0.5958734809013008
+         "Name": "male_af_ol1_Nose",
+         "Value": 0.26702179513966096
       }
    ],
    "MorphWeights": {
-      "x": 0.48538299223443065,
-      "y": 0.74360843023037,
-      "z": 0.22085201563166176
+      "x": 0.19145537886007657,
+      "y": 0.5503324024141191,
+      "z": 0.1
    },
    "PostBlendFaceCustomization": {
       "LayersA": [
          {
-            "Intensity": 0.48030843011428903,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "ComplexionMask2",
-            "Value": {
-               "Value": "Complexion_Eye_Crevices"
-            }
-         },
-         {
-            "Intensity": 0.4991263324516333,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "Complexion2",
-            "Value": {
-               "Value": "Vitiligo_3"
-            }
-         },
-         {
-            "Intensity": 0.45653385634486937,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "Complexion1",
-            "Value": {
-               "Value": "Color_Temperature_Green"
-            }
-         },
-         {
-            "Intensity": 0.30027585611792584,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "Accents2",
-            "Value": {
-               "Value": "Accents_UnderEyeCrease"
-            }
-         },
-         {
-            "Intensity": 0.5602994936813368,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "Dermaesthetic",
-            "Value": {
-               "Value": "Asian_Female_yo1_Sk1"
-            }
-         },
-         {
-            "Intensity": 0.17194051894059698,
-            "ModulationValue": {
-               "Value": ""
-            },
-            "Name": "ColorlessAccents2",
-            "Value": {
-               "Value": "Accents_Lips"
-            }
-         },
-         {
-            "Intensity": 0.45905941066502604,
+            "Intensity": 0.004821719265152513,
             "ModulationValue": {
                "Value": ""
             },
             "Name": "ColorlessAccents1",
             "Value": {
-               "Value": "Blemish_VeinsMany"
+               "Value": "Accents_UnderEyeBags"
             }
          },
          {
-            "Intensity": 0.0,
+            "Intensity": 0.36347360628996767,
             "ModulationValue": {
                "Value": ""
             },
-            "Name": "Accents1",
+            "Name": "ColorlessAccents2",
             "Value": {
-               "Value": "Accents_Moles_BaldHeadNeck"
+               "Value": "Accents_Moles_FaceNeck"
             }
          }
       ]
@@ -532,17 +472,17 @@
       "",
       "Human_Male_Head",
       "Human_Male_RightEye",
-      "Human_Male_Hair_OldGuy_Business_Receded",
-      "none",
+      "Human_Male_Hair_Mullet",
+      "Human_Male_Beard_PaintersMoustache",
       "",
-      "Human_Male_Eyebrow_Sliced",
+      "Human_Male_Eyebrow_Simple",
       "none",
       "",
       "Human_Male_Teeth",
       "",
       "",
       "Human_Male_LeftEye",
-      "Human_Male_Eyelashes_01_Top"
+      "Human_Male_Eyelashes_02_Top"
    ],
    "MiscHeadPartsA": []
 }
